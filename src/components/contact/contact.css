@@ -1,0 +1,249 @@
+@font-face {
+  font-family: 'MeieScriptRegular';
+  src: url('../../fonts/MeieScriptRegular.ttf');
+}
+
+@font-face {
+  font-family: 'PTSerif-Bold';
+  src: url('../../fonts/PTSerif-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'PTSans-Regular';
+  src: url('../../fonts/PTSans-Regular.ttf');
+}
+
+.contact-page {
+  background-color: #1a1a1a;
+  display: flex;
+  justify-content: center;
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  padding-right: 200px;
+}
+
+.contact-top {
+  font-family: 'PTSerif-Bold', sans-serif;
+  font-size: 61px;
+  color: white;
+ }
+
+.svg-contact {
+  margin-bottom: 60px;
+  margin-left: 30px;
+}
+
+.contact-details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  padding-bottom: 30px;
+  font-family: 'PTSerif-Bold', sans-serif;
+  font-size: 32px;
+  color: white;
+ }
+
+.contact-info {
+  padding-left: 30px;
+  color: white;
+}
+
+.address {
+  margin-left: 30px;
+}
+
+.right {
+  color: white;
+  font-family: 'PTSans-Regular', sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.personal-info {
+  width: 260px
+}
+
+.name-info {
+  margin-right: 15px;
+}
+
+.form-title {
+  margin-bottom: 34px;
+}
+
+.form-info {
+  margin-bottom: 25px;
+  height: 50px;
+  padding-left: 10px;
+}
+
+.form-info::placeholder {
+  color: black;
+}
+
+.form-info.error::placeholder {
+  color: red;
+}
+
+.service-info {
+  height: 145px;
+}
+
+.send {
+  height: 50px;
+  background-color: #FFC60D;
+  cursor: pointer;
+}
+
+
+
+@media (max-width: 1300px) {
+  .left {
+    padding-right: 110px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .contact-page {
+    flex-direction: column;
+  }
+
+  .left {
+    padding-right: 0;
+    padding-left: 300px;
+    padding-bottom: 130px;
+  }
+
+  .contact-top {
+    font-size: 54px;
+  }
+
+  .contact-details {
+    font-size: 34px;
+  }
+
+  .contact-image {
+    height: 60px;
+    max-width: 60px;
+  }
+
+  .right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+}
+
+  @media (max-width: 900px) {
+    .left {
+      padding-left: 200px;
+    }
+  }
+
+  @media (max-width: 700px) {
+
+    .contact-page {
+      padding-top: 100px;
+    }
+
+    .left {
+      padding-bottom: 60px;
+    }
+
+    .contact-top {
+      font-size: 40px;
+    }
+
+    .contact-details {
+      font-size: 25px;
+    }
+
+    .contact-image {
+      height: 40px;
+      max-width: 40px;
+    }
+
+    .personal-info {
+      width: 412px;
+    }
+
+    .name-info {
+      margin-right: 0;
+    }
+  }
+
+  @media (max-width: 700px) {
+
+    .contact-page {
+      padding-top: 60px;
+    }
+
+    .left {
+      padding-left: 150px;
+      padding-bottom: 60px;
+    }
+
+    .contact-top {
+      font-size: 40px;
+    }
+
+    .contact-details {
+      font-size: 25px;
+    }
+
+    .contact-image {
+      height: 40px;
+      max-width: 40px;
+    }
+
+    .form-toggle {
+      display: none;
+      }
+
+    .right {
+      max-width: 60%;
+      margin-left: 100px;
+    }
+  }
+
+  @media (max-width: 570px) {
+    .left {
+      padding-left: 70px;
+        }
+    }
+
+  @media (max-width: 400px) {
+    .left {
+      padding-left: 50px;
+        }
+
+    .svg-contact {
+      margin-bottom: 25px;
+    }
+
+    .contact-top {
+      font-size: 30px;
+      }
+
+    .contact-details {
+      font-size: 20px;
+      }
+
+    .contact-image {
+      height: 30px;
+      max-width: 30px;
+      }
+
+    }
+

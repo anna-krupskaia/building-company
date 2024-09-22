@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "title": "Plumbing fixes and installations",
+    "description": "- Plumbing repair: our team of experienced technicians is equipped with everything necessary to solve a wide range of plumbing issues, from leaking pipes and clogged drains to faulty fixtures and malfunctioning water heaters;",
+    "descriptionn": "- Our specialists have the knowledge and experience to complete the work with precision. We guarantee professional services for installation.",
+        "image": "1.png"
+  },
+   {
+    "id": "2",
+    "title": "Furniture assembly",
+    "description": "- Readiness for assembly of furniture of any complexity;",
+    "descriptionn": "- We assemble furniture of any complexity: from simple tables and chairs to beds and wardrobes.",
+    "image": "2.png"
+  },
+  
+  {
+    "id": "3",
+    "title": "Tile installation and repair",
+    "description": "Our specialists have the knowledge and experience to complete the work with precision. We guarantee professional services for installation.",
+        "image": "3.png"
+  },
+  {
+    "id": "4",
+    "title": "Property Maintenance Services for Airbnb",
+    "description": "- Regular cleaning and maintenance of the accommodation to ensure a hospitable and comfortable environment for Airbnb guests;",
+    "descriptionn": "- Prompt repairs and technical servicing to address any issues or concerns that may arise during guests' stays.",
+        "image": "4.png"
+  },
+  {
+    "id": "5",
+    "title": "Door installation or repair",
+    "description": "- Installation and repair of doors of any type and size;",
+    "descriptionn": "- Professional and high-quality service using reliable materials and tools.",
+        "image": "5.png"
+  },
+  {
+    "id": "6",
+    "title": "Painting and repair",
+    "description": "- Painting: Our team specializes in high-quality painting of walls, ceilings, and other surfaces in your home or office;",
+    "descriptionn": "- Repair: We provide services for repairing various damages and defects in your living space, including the replacement of doors, windows, floors, and much more.",
+       "image": "6.png"
+  },
+  {
+    "id": "7",
+    "title": "Painting and drywall repair",
+    "description": "- Painting services: From interior to exterior painting, we offer a wide range of color solutions to transform your space;",
+    "descriptionn": "- Drywall repair services: We offer professional drywall repair services to fix any holes, cracks, or damages on your walls.",
+        "image": "7.png"
+  },
+  {
+    "id": "8",
+    "title": "Construction and repair of fences",
+    "description": "- Installation and repair of fences of any complexity and materials;",
+    "descriptionn": "- Individual approach to each order to ensure the safety and durability of the structure.",
+        "image": "8.png"
+  },
+  {
+    "id": "9",
+    "title": "Construction and repair of terraces",
+    "description": "- Terrace construction: our experienced team offers professional services for designing and constructing beautiful and durable terraces that meet your specific needs and preferences;",
+    "descriptionn": "- Terrace repair: we also provide skilled repair services to address any damage or issues with existing terraces, ensuring their safety and functionality for your enjoyment.",
+        "image": "9.png"
+  },
+  {
+    "id": "10",
+    "title": "Other types of work",
+    "description": "Renovation of apartments and houses: We offer a wide range of services for the repair and decoration of residential premises, including interior planning and design, installation of plumbing, electrical work, wall and floor finishes, as well as replacement of windows and doors.",
+        "image": "10.png"
+  }
+]
